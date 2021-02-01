@@ -1,4 +1,4 @@
-# Dbms_Project
+# Dbms_MiniProject
 
 POLICE_COMPLAINT_MANAGEMENT_SYSTEM_DBMS
 
